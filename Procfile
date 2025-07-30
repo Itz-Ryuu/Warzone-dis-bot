@@ -1,0 +1,1 @@
+worker: python warzone_bot.py
